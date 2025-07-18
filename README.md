@@ -23,26 +23,45 @@ Welcome to my portfolio! I'm a passionate Data Scientist with a strong backgroun
 
 ### 🤖 **Data Science & Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
-### 🧠 **Advanced AI & NLP**
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-%230076B3.svg?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-%23C71585.svg?style=for-the-badge&logo=lightgbm&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-%230060A8.svg?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%23007ACC.svg?style=for-the-badge&logo=nltk&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%234285F4.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23004881.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### 📊 **Data Engineering & Big Data**
-![Talend](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### ⚙️ **Data Engineering & MLOps**
+
+![Data Pipeline](https://img.shields.io/badge/Data--Pipeline-%23FFA500.svg?style=for-the-badge&logo=data&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-%23007ACC.svg?style=for-the-badge&logo=etlx&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data--Cleaning-%239ACD32.svg?style=for-the-badge&logo=data&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big--Data-%231572B6.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-%23017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-%230073AA.svg?style=for-the-badge&logo=talend&logoColor=white)
 ![Pentaho](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Microsoft SSIS](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-%23D00000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI--CD-%231572B6.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Model Deployment](https://img.shields.io/badge/Model--Deployment-%23FF9900.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![API Integration](https://img.shields.io/badge/API--Integration-%23006A71.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🗄️ **Databases & Storage**
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -53,11 +72,45 @@ Welcome to my portfolio! I'm a passionate Data Scientist with a strong backgroun
 ![Streamlit](https://img.shields.io/badge/Streamlit-%233F4F75.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%2300CED1.svg?style=for-the-badge&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-- **Techniques:** Machine Learning, Deep Learning, Predictive Modeling, Data Cleaning  
-- **Specialties:** Data Scraping, Automation Workflows, Strategic Data Insights
+
+
+## 🛠️ Techniques & Specialties
+
+### 📊 Data Science & Analytics Skills
+
+![Data Science](https://img.shields.io/badge/Data%20Science-%230075a8.svg?style=for-the-badge&logo=data&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%2300BFFF.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-%23FF8C00.svg?style=for-the-badge&logo=model&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-%2300CED1.svg?style=for-the-badge&logo=stata&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-%231E90FF.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-%234B0082.svg?style=for-the-badge&logo=timescale&logoColor=white)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-%23DC143C.svg?style=for-the-badge&logo=emoji&logoColor=white)
+![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-%23A52A2A.svg?style=for-the-badge&logo=narrative&logoColor=white)
+![Dashboarding](https://img.shields.io/badge/Dashboarding-%232197C1.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A_B%20Testing-%238A2BE2.svg?style=for-the-badge&logo=splitgate&logoColor=white)
+![Data-Driven Decisions](https://img.shields.io/badge/Data--Driven%20Decision%20Making-%23008080.svg?style=for-the-badge&logo=insight&logoColor=white)
+
+---
+
+### 🧠 Business Intelligence & CRM
+
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-%232C3E50.svg?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
+![CRM Analytics](https://img.shields.io/badge/CRM%20Analytics-%230077B5.svg?style=for-the-badge&logo=zoho&logoColor=white)
+![Lead Scoring](https://img.shields.io/badge/Lead%20Scoring-%23F08080.svg?style=for-the-badge&logo=leads&logoColor=white)
+![Customer Segmentation](https://img.shields.io/badge/Customer%20Segmentation-%236A5ACD.svg?style=for-the-badge&logo=segment&logoColor=white)
+![Churn Prediction](https://img.shields.io/badge/Churn%20Prediction-%23B22222.svg?style=for-the-badge&logo=insights&logoColor=white)
+![Sales Forecasting](https://img.shields.io/badge/Sales%20Forecasting-%2300BFA5.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![Fraud Detection](https://img.shields.io/badge/Fraud%20Detection-%234CAF50.svg?style=for-the-badge&logo=alert&logoColor=white)
+![E-commerce Analytics](https://img.shields.io/badge/E--commerce%20Analytics-%232ECC71.svg?style=for-the-badge&logo=shopify&logoColor=white)
+![Market Basket Analysis](https://img.shields.io/badge/Market%20Basket%20Analysis-%23DAA520.svg?style=for-the-badge&logo=shopping-cart&logoColor=white)
+![B2B Data Automation](https://img.shields.io/badge/B2B%20Data%20Automation-%23008080.svg?style=for-the-badge&logo=zapier&logoColor=white)
+![B2C Insights](https://img.shields.io/badge/B2C%20Insights-%23FF4500.svg?style=for-the-badge&logo=consumer&logoColor=white)
+
 
 ## 🧑‍💼 Experience
 
