@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! I'm a passionate Data Scientist with a strong background in Computer Engineering and Big Data. I turn complex data into actionable insights through machine learning, automation, and innovative data strategies.
 
-## 🌐 Contact
+## 🌐 REACH ME AT
 
 - 📫 Email: [karjanepro@gmail.com](mailto:karjanepro@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/khadija-arjane](https://www.linkedin.com/in/khadija-arjane)
