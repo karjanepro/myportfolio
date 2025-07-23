@@ -133,20 +133,23 @@ Welcome to my portfolio! I'm a passionate Data Scientist with a strong backgroun
 ## 🚀 Featured Projects
 
 ### 🔍 Auto Piste – AI-Powered B2B Lead Generation Platform
+
 A robust B2B web platform engineered to extract, enrich, and qualify business leads using advanced AI, ETL, and automation pipelines. Built with **Python**, **RapidAPI**, **ChatGPT API**, and **Pandas**, it processes unstructured web data into actionable lead profiles. The system features intelligent data cleaning, enrichment, and transformation workflows optimized for high-quality lead acquisition and sales performance.
 
 - **Tech Stack:** Python, Pandas, ChatGPT API, RapidAPI, Automation, ETL
 
 ---
 
-### 📊 Auto Piste Analytics Dashboard – Real-Time Lead Intelligence
+### 📊  [Auto Piste Analytics Dashboard – Real-Time Lead Intelligence](https://github.com/karjanepro/Auto-Piste-Analytics-Dashboard-Real-Time-Lead-Intelligence)
+
 An interactive **Streamlit-based dashboard** that provides real-time insights into lead quality, conversion potential, and campaign performance from the Auto Piste platform. The dashboard features dynamic KPI visualizations and advanced filtering for strategic decision-making.
 
 - **Tech Stack:** Python, Streamlit, Plotly, Pandas
 
 ---
 
-### 🧠 Auto Octoparse – Autonomous Web Task Executor
+### 🧠 [Auto Octoparse – Autonomous Web Task Executor](https://github.com/karjanepro/Auto-Octoparse-Autonomous-Web-Task-Executor)
+
 A Python desktop application with a GUI (Tkinter) that trains an AI agent to autonomously configure, schedule, and execute data extraction tasks via **Octoparse**—without human interaction. Automates repetitive scraping jobs using **Selenium**, **Tkinter**, and robust task handling logic.
 
 - **Tech Stack:** Python, Selenium, Tkinter, Octoparse API, Automation
@@ -154,34 +157,38 @@ A Python desktop application with a GUI (Tkinter) that trains an AI agent to aut
 ---
 
 ### 🛒 Amazon Product Intelligence Platform – Scalable Data Extraction & Analysis
+
 A distributed, high-performance platform built for large-scale Amazon product data extraction and analysis. It supports multi-category crawling with parallel processing, full product metadata harvesting, taxonomy classification, and user review mining. Features advanced anti-bot mechanisms and a robust analytics pipeline powered by **Snowflake**, enabling business-grade insights and product intelligence.
 
 - **Tech Stack:** Python, Distributed Scraping, Metadata Extraction, Anti-bot Systems, Snowflake, Scalable Architecture
 
 ---
 
-### 🧾 Auto Fiche B2C – Intelligent Client Profile Enricher
+### 🧾 [Auto Fiche B2C – Intelligent Client Profile Enricher](https://github.com/karjanepro/Auto-Fiche-B2C-Intelligent-Client-Profile-Enricher)
+
 An autonomous agent that enriches B2C client profiles with web-sourced data including logos, business descriptions, URLs, contact information, and social metadata. Powered by **Python**, **NLP**, and **data enrichment APIs**, this agent auto-generates comprehensive client fiches for CRM integration and personalization.
 
 - **Tech Stack:** Python, Web Scraping, Data Enrichment, NLP
 
 ---
 
-### 📈 Datapull – End-to-End B2B Lead Intelligence Platform
+### 📈 [Datapull – End-to-End B2B Lead Intelligence Platform](https://github.com/karjanepro/Datapull-ETL-Workflow-for-B2B-Lead-Intelligence)
+
 A large-scale, production-grade B2B lead platform managing over **3 million lead records**. Built over 1.5 years, this system integrates **Talend**, **Streamlit**, **Django**, and **SQL** to orchestrate complete ETL workflows, real-time lead generation, and multi-step data quality verification including email and phone validation.
 
 - **Tech Stack:** Django, Streamlit, Python, Talend, SQL (OVH), API Integration
 
 ---
 
-### 🗣️ Sales Speech Generator – AI for Real-Time Sales Enablement
+### 🗣️ [Sales Speech Generator – AI for Real-Time Sales Enablement](https://github.com/karjanepro/Sales-Speech-Generator-AI-for-Real-Time-Sales-Enablement)
+
 A Django-based AI platform that generates tailored sales scripts in real time, assisting lead acquisition teams in personalizing their outreach. Utilizes **NLP models**, **LLMs**, and real-time data context to craft persuasive, on-brand messaging aligned with business objectives.
 
 - **Tech Stack:** Python, Django, AI APIs, Prompt Engineering
 
 ---
 
-### 📊 E-commerce KPI Dashboard – Business Intelligence for Retail
+### 📊 [E-commerce KPI Dashboard – Business Intelligence for Retail](https://github.com/karjanepro/E-commerce-KPI-Dashboard-Business-Intelligence)
 An enterprise-grade dashboard built in **Power BI**, designed to monitor and analyze performance metrics across e-commerce operations. Leverages **DAX**, **SQL**, and robust data modeling techniques to offer real-time visibility into conversion rates, revenue streams, and customer behavior trends.
 
 - **Tech Stack:** Power BI, DAX, SQL, Data Modeling
@@ -197,11 +204,12 @@ An AI-driven tool that converts structured form inputs into professional-grade p
 
 ### 🧠 Kaggle Projects – Advanced ML Prototypes
 
-- **🏠 Price Prediction:** Developed regression models to predict U.S. apartment prices based on geospatial and economic features.
-- **💬 Sentiment Analysis:** Built classifiers to analyze sentiment in customer feedback, leveraging NLP pipelines.
-- **📘 Riid Answer Correctness Prediction:** Modeled and predicted student performance based on historical answers using ensemble learning.
+- **🏠 Price Prediction**: Developed regression models to predict U.S. apartment prices based on geospatial and economic features.
+- **💬 [Sentiment Analysis](https://github.com/karjanepro/Real-Time-Sentiment-Analysis-using-Python)**: Built classifiers to analyze sentiment in customer feedback, leveraging NLP pipelines.
+- **📘 Riid Answer Correctness Prediction**: Modeled and predicted student performance based on historical answers using ensemble learning.
+- **🛒 [Recommender System Using Amazon Reviews](https://github.com/karjanepro/Recommender-System-Using-Amazon-Reviews)**: A collaborative filtering-based recommendation engine built using Amazon Electronics review data. This project explores multiple types of recommendation techniques, with a focus on scalability, accuracy, and real-world application.
 
-- **Tech Stack:** Python, Scikit-learn, XGBoost, NLP, Regression Models
+- **Tech Stack:** Python, Scikit-learn, XGBoost, NLP, Machine Learning models, Regression Models, SVM ...
 
 
 
